@@ -1,0 +1,45 @@
+﻿@model IEnumerable<githubpanviva.Models.GitHubRepo>
+
+@{
+    var accountName = ViewData["accountName"];
+    var date = ViewData["date"];
+    var followers = ViewData["followers"];
+    var following = ViewData["following"];
+}
+ 
+<h3>Last Active: @date</h3>
+<h3>Followers: @followers</h3>
+<h3>Following: @following</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.name)
+            </th>
+             <th>
+                @Html.DisplayNameFor(model => model.created_at)
+            </th>
+          
+            <th>
+                @Html.DisplayNameFor(model => model.git_url)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.created_at)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.git_url)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

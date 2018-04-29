@@ -1,0 +1,11 @@
+/Users/prasanthi/Documents/Web Development Technology/github-panviva/github-panviva/bin/Debug/netcoreapp2.0/github-panviva.deps.json
+/Users/prasanthi/Documents/Web Development Technology/github-panviva/github-panviva/bin/Debug/netcoreapp2.0/github-panviva.runtimeconfig.json
+/Users/prasanthi/Documents/Web Development Technology/github-panviva/github-panviva/bin/Debug/netcoreapp2.0/github-panviva.runtimeconfig.dev.json
+/Users/prasanthi/Documents/Web Development Technology/github-panviva/github-panviva/bin/Debug/netcoreapp2.0/github-panviva.dll
+/Users/prasanthi/Documents/Web Development Technology/github-panviva/github-panviva/bin/Debug/netcoreapp2.0/github-panviva.pdb
+/Users/prasanthi/Documents/Web Development Technology/github-panviva/github-panviva/obj/Debug/netcoreapp2.0/github-panviva.csprojResolveAssemblyReference.cache
+/Users/prasanthi/Documents/Web Development Technology/github-panviva/github-panviva/obj/Debug/netcoreapp2.0/github-panviva.csproj.CoreCompileInputs.cache
+/Users/prasanthi/Documents/Web Development Technology/github-panviva/github-panviva/obj/Debug/netcoreapp2.0/github-panviva.AssemblyInfoInputs.cache
+/Users/prasanthi/Documents/Web Development Technology/github-panviva/github-panviva/obj/Debug/netcoreapp2.0/github-panviva.AssemblyInfo.cs
+/Users/prasanthi/Documents/Web Development Technology/github-panviva/github-panviva/obj/Debug/netcoreapp2.0/github-panviva.dll
+/Users/prasanthi/Documents/Web Development Technology/github-panviva/github-panviva/obj/Debug/netcoreapp2.0/github-panviva.pdb
